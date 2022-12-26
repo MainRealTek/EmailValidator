@@ -2,21 +2,17 @@
 It can find correct format and invalid format for each email in an file with Threads
 
 
-Is usefoul for know the quality of leads email then establish good relationship with him.
+Is useful for know the quality of leads email then establish good relationship with the vendor.
 
 Requiriments:
 
 -asyncio
 
-
 -os
-
 
 -sys
 
-
 -re
-
 
 -colorama
 
