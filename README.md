@@ -7,9 +7,17 @@ Is usefoul for know the quality of leads email then establish good relationship 
 Requiriments:
 
 -asyncio
+
+
 -os
+
+
 -sys
+
+
 -re
+
+
 -colorama
 
 
